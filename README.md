@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **InfoMix**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👯 I’m looking to collaborate on [One For Flutter](https://marketplace.visualstudio.com/items?itemName=one-for-flutter-extension.one-for-flutter)
 
