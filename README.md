@@ -28,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetyunusbayram&show_icons=true&locale=en" alt="ahmetyunusbayram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetyunusbayram&" alt="ahmetyunusbayram" /></p>
+<div align="center">
+  <a href="https://open.spotify.com/user/eqhksrdqkxrbcrtav66zmnhvl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=eqhksrdqkxrbcrtav66zmnhvl&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
