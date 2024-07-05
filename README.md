@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetyunusbayram" alt="ahmetyunusbayram" /></a> </p>
 
-- 🔭 I’m currently working on **InfoMix**
-
-- 🌱 I’m currently learning **ASP.NET**
-
 - 👯 I’m looking to collaborate on [One For Flutter](https://marketplace.visualstudio.com/items?itemName=one-for-flutter-extension.one-for-flutter)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmetYunusBAYRAM](https://github.com/AhmetYunusBAYRAM)
