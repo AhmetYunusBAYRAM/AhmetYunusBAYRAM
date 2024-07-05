@@ -23,15 +23,19 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc4blxvwrm0tlvjahg9nihrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4blxvwrm0tlvjahg9nihrq" height="30" width="40" /></a>
 </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetyunusbayram&show_icons=true&locale=en&layout=compact" alt="ahmetyunusbayram" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetyunusbayram&show_icons=true&locale=en" alt="ahmetyunusbayram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetyunusbayram&" alt="ahmetyunusbayram" /></p>
+<br clear="both">
+
 <div align="center">
   <a href="https://open.spotify.com/user/eqhksrdqkxrbcrtav66zmnhvl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=eqhksrdqkxrbcrtav66zmnhvl&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=eqhksrdqkxrbcrtav66zmnhvl&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
+###
 ###
