@@ -15,42 +15,12 @@
 ## 👨‍💻 About Me
 
 - 🔭 Full-stack developer working with **C# / ASP.NET Core** on the backend and **Next.js / TypeScript** on the frontend
-- 🐪 Building **[Heybe](https://heybeapp.com)** — a gamified Qur'an & Islamic learning app with an AI recitation tutor, **Heybe Hoca**
 - 🧩 Building **[Multi-ERP](https://github.com/micro-service-app)** — an open-source ERP with **micro frontends** and **polyglot microservices**
+- 🐪 Building **[Heybe](https://heybeapp.com)** — a gamified Qur'an & Islamic learning app with an AI recitation tutor, **Heybe Hoca**
 - 🔐 Also building an **end-to-end encrypted real-time messaging** platform with SignalR & MongoDB
 - 🧠 Enjoy low-level programming in **C** — memory management, system calls and algorithms
 - 📱 Also experimented with **Android (Java)** and **Flutter**
 - 🌱 Looking to contribute to open-source projects
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,tailwind,nodejs&perline=8" alt="stack 1" /><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,androidstudio,flutter,dart,swift&perline=8" alt="stack 2" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma,firebase,git,github,docker,vscode,linux&perline=8" alt="stack 3" />
-</p>
-
-## 🐪 Heybe — Learn the Qur'an the Fun Way
-
-<p align="center">
-  <a href="https://heybeapp.com"><img src="https://img.shields.io/badge/Website-heybeapp.com-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://apps.apple.com/app/id6807960856"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.charduck.heybe"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
-  <a href="https://app.heybeapp.com"><img src="https://img.shields.io/badge/Web_App-app.heybeapp.com-6A1B9A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
-
-**[Heybe](https://heybeapp.com)** is a Turkish-language app for learning the Qur'an and Islamic practice through short, game-like lessons — available on **iOS, Android and the web**.
-
-### 🎙️ Heybe Hoca — AI Recitation Tutor
-An AI model trained to **listen to Qur'an recitation**, detect mistakes **word by word**, and play back the correct reading — like having a personal teacher in your pocket.
-
-| | Features |
-|---|---|
-| 📚 **Courses** | 6 courses · 400+ lessons — Elifba, Prayer Duas & Surahs, Worship, Articles of Faith, Life of the Prophet, Good Character |
-| 🎮 **Gamification** | XP, leagues, streaks, daily tasks, hearts and Burak the camel mascot |
-| 🕌 **Daily Practice** | Prayer tracking & reminders, Qibla compass, Android widget, Ramadan mode, dhikr counter |
-| 🎨 **Learning Tools** | Tajweed color highlighting, 99 Names of Allah, offline lessons |
-| 👨‍👩‍👧 **Family** | Consent-based family progress tracking |
 
 ## 🧩 Multi-ERP — Microservices & Micro Frontends
 
@@ -77,6 +47,28 @@ An AI model trained to **listen to Qur'an recitation**, detect mistakes **word b
 | 🎨 UI | [frontend-kit](https://github.com/micro-service-app/frontend-kit) · [storefront](https://github.com/micro-service-app/storefront) |
 
 **Highlights:** server-side micro frontend composition with PuzzleJS · event-driven communication over RabbitMQ · isolated per-visitor workspaces · drag-and-drop UBL-TR invoice designer · Docker Compose & Kubernetes deployment
+
+## 🐪 Heybe — Learn the Qur'an the Fun Way
+
+<p align="center">
+  <a href="https://heybeapp.com"><img src="https://img.shields.io/badge/Website-heybeapp.com-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://apps.apple.com/app/id6807960856"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.charduck.heybe"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+  <a href="https://app.heybeapp.com"><img src="https://img.shields.io/badge/Web_App-app.heybeapp.com-6A1B9A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+**[Heybe](https://heybeapp.com)** is a Turkish-language app for learning the Qur'an and Islamic practice through short, game-like lessons — available on **iOS, Android and the web**.
+
+### 🎙️ Heybe Hoca — AI Recitation Tutor
+An AI model trained to **listen to Qur'an recitation**, detect mistakes **word by word**, and play back the correct reading — like having a personal teacher in your pocket.
+
+| | Features |
+|---|---|
+| 📚 **Courses** | 6 courses · 400+ lessons — Elifba, Prayer Duas & Surahs, Worship, Articles of Faith, Life of the Prophet, Good Character |
+| 🎮 **Gamification** | XP, leagues, streaks, daily tasks, hearts and Burak the camel mascot |
+| 🕌 **Daily Practice** | Prayer tracking & reminders, Qibla compass, Android widget, Ramadan mode, dhikr counter |
+| 🎨 **Learning Tools** | Tajweed color highlighting, 99 Names of Allah, offline lessons |
+| 👨‍👩‍👧 **Family** | Consent-based family progress tracking |
 
 ## 🚀 Other Projects
 
