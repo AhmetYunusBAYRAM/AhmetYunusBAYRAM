@@ -50,12 +50,3 @@ An AI model trained to **listen to Qur'an recitation**, detect mistakes **word b
 | 🕌 **Daily Practice** | Prayer tracking & reminders, Qibla compass, Android widget, Ramadan mode, dhikr counter |
 | 🎨 **Learning Tools** | Tajweed color highlighting, 99 Names of Allah, offline lessons |
 | 👨‍👩‍👧 **Family** | Consent-based family progress tracking |
-
-## 🚀 Other Projects
-
-<p align="center">
-  <a href="https://github.com/AhmetYunusBAYRAM/private-messaging-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=private-messaging-backend&theme=tokyonight&hide_border=true" alt="private-messaging-backend" /></a>
-  <a href="https://github.com/AhmetYunusBAYRAM/private-messaging-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=private-messaging-client&theme=tokyonight&hide_border=true" alt="private-messaging-client" /></a>
-  <a href="https://github.com/AhmetYunusBAYRAM/cpp-robot-wars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=cpp-robot-wars&theme=tokyonight&hide_border=true" alt="cpp-robot-wars" /></a>
-  <a href="https://github.com/AhmetYunusBAYRAM/android-native-socket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=android-native-socket&theme=tokyonight&hide_border=true" alt="android-native-socket" /></a>
-</p>
