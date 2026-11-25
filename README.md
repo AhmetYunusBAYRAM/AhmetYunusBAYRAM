@@ -12,16 +12,6 @@
   <img src="https://img.shields.io/badge/Location-Istanbul%2C%20T%C3%BCrkiye-0e75b6?style=flat" alt="location" />
 </p>
 
-## 👨‍💻 About Me
-
-- 🔭 Full-stack developer working with **C# / ASP.NET Core** on the backend and **Next.js / TypeScript** on the frontend
-- 🧩 Building **[Multi-ERP](https://github.com/micro-service-app)** — an open-source ERP with **micro frontends** and **polyglot microservices**
-- 🐪 Building **[Heybe](https://heybeapp.com)** — a gamified Qur'an & Islamic learning app with an AI recitation tutor, **Heybe Hoca**
-- 🔐 Also building an **end-to-end encrypted real-time messaging** platform with SignalR & MongoDB
-- 🧠 Enjoy low-level programming in **C** — memory management, system calls and algorithms
-- 📱 Also experimented with **Android (Java)** and **Flutter**
-- 🌱 Looking to contribute to open-source projects
-
 ## 🧩 Multi-ERP — Microservices & Micro Frontends
 
 <p>
@@ -54,7 +44,6 @@
   <a href="https://heybeapp.com"><img src="https://img.shields.io/badge/Website-heybeapp.com-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://apps.apple.com/app/id6807960856"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.charduck.heybe"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
-  <a href="https://app.heybeapp.com"><img src="https://img.shields.io/badge/Web_App-app.heybeapp.com-6A1B9A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 **[Heybe](https://heybeapp.com)** is a Turkish-language app for learning the Qur'an and Islamic practice through short, game-like lessons — available on **iOS, Android and the web**.
