@@ -1,12 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmet%20Yunus%20Bayram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20.NET%20%E2%80%A2%20Next.js%20%E2%80%A2%20C&descAlignY=58&descSize=18" alt="header" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+secure%2C+real-time+applications;End-to-end+encryption+%E2%80%A2+SignalR+%E2%80%A2+Next.js;Low-level+programming+in+C+%26+C%2B%2B;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmetYunusBAYRAM&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/AhmetYunusBAYRAM?label=Followers&style=flat&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/badge/Location-Istanbul%2C%20T%C3%BCrkiye-0e75b6?style=flat" alt="location" />
@@ -67,23 +59,3 @@ An AI model trained to **listen to Qur'an recitation**, detect mistakes **word b
   <a href="https://github.com/AhmetYunusBAYRAM/cpp-robot-wars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=cpp-robot-wars&theme=tokyonight&hide_border=true" alt="cpp-robot-wars" /></a>
   <a href="https://github.com/AhmetYunusBAYRAM/android-native-socket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=android-native-socket&theme=tokyonight&hide_border=true" alt="android-native-socket" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmetYunusBAYRAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetYunusBAYRAM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmetYunusBAYRAM&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmetYunusBAYRAM&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer" />
-</p>
-
