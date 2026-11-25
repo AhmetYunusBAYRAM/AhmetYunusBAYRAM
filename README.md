@@ -15,7 +15,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Full-stack developer working with **C# / ASP.NET Core** on the backend and **Next.js / TypeScript** on the frontend
-- 🔐 Currently building an **end-to-end encrypted real-time messaging** platform with SignalR & MongoDB
+- 🧩 Building **[Multi-ERP](https://github.com/micro-service-app)** — an open-source ERP with **micro frontends** and **polyglot microservices**
+- 🔐 Also building an **end-to-end encrypted real-time messaging** platform with SignalR & MongoDB
 - 🧠 Enjoy low-level programming in **C** — memory management, system calls and algorithms
 - 📱 Also experimented with **Android (Java)** and **Flutter**
 - 🌱 Looking to contribute to open-source projects
@@ -28,12 +29,38 @@
   <img src="https://skillicons.dev/icons?i=mongodb,prisma,firebase,git,github,docker,vscode,linux&perline=8" alt="stack 3" />
 </p>
 
-## 🚀 Featured Projects
+## 🧩 Multi-ERP — Microservices & Micro Frontends
+
+<p>
+  <a href="https://github.com/micro-service-app"><b>micro-service-app</b></a> is an open-source ERP built as a playground for <b>micro frontends</b> and <b>polyglot microservices</b>: every part is written in a different language or framework, lives in its own repository, and still feels like one application.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+| Layer | Repositories |
+|---|---|
+| 🏗️ Platform | [platform](https://github.com/micro-service-app/platform) · [contracts](https://github.com/micro-service-app/contracts) |
+| ⚙️ Microservices | [customer-service](https://github.com/micro-service-app/customer-service) (Go) · [product-service](https://github.com/micro-service-app/product-service) (Java / Spring Boot) · [invoice-service](https://github.com/micro-service-app/invoice-service) (C#) · [document-service](https://github.com/micro-service-app/document-service) (C#) · [report-service](https://github.com/micro-service-app/report-service) (Python / FastAPI) · [tenant-service](https://github.com/micro-service-app/tenant-service) (Node.js) |
+| 🖥️ Micro Frontends | [mf-shell](https://github.com/micro-service-app/mf-shell) · [mf-dashboard](https://github.com/micro-service-app/mf-dashboard) · [mf-customers](https://github.com/micro-service-app/mf-customers) (Vue) · [mf-products](https://github.com/micro-service-app/mf-products) (Svelte) · [mf-invoices](https://github.com/micro-service-app/mf-invoices) · [mf-designer](https://github.com/micro-service-app/mf-designer) |
+| 🎨 UI | [frontend-kit](https://github.com/micro-service-app/frontend-kit) · [storefront](https://github.com/micro-service-app/storefront) |
+
+**Highlights:** server-side micro frontend composition with PuzzleJS · event-driven communication over RabbitMQ · isolated per-visitor workspaces · drag-and-drop UBL-TR invoice designer · Docker Compose & Kubernetes deployment
+
+## 🚀 Other Projects
 
 <p align="center">
   <a href="https://github.com/AhmetYunusBAYRAM/private-messaging-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=private-messaging-backend&theme=tokyonight&hide_border=true" alt="private-messaging-backend" /></a>
   <a href="https://github.com/AhmetYunusBAYRAM/private-messaging-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=private-messaging-client&theme=tokyonight&hide_border=true" alt="private-messaging-client" /></a>
-  <a href="https://github.com/AhmetYunusBAYRAM/order-tracking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=order-tracking&theme=tokyonight&hide_border=true" alt="order-tracking" /></a>
+  <a href="https://github.com/AhmetYunusBAYRAM/cpp-robot-wars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=cpp-robot-wars&theme=tokyonight&hide_border=true" alt="cpp-robot-wars" /></a>
   <a href="https://github.com/AhmetYunusBAYRAM/android-native-socket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmetYunusBAYRAM&repo=android-native-socket&theme=tokyonight&hide_border=true" alt="android-native-socket" /></a>
 </p>
 
